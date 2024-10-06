@@ -75,13 +75,13 @@ const AboutDetails = () => {
 
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
           <Link
-            href="https://github.com/jonathanpperry/next-contentlayer-blog"
+            href="https://github.com/jonathanpperry/book-management-macapp"
             target="_blank"
             className="w-full"
           >
             <img
               className="w-full h-auto"
-              src={`https://github-readme-stats.vercel.app/api/pin/?username=jonathanpperry&repo=ionic-contact-app&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
+              src={`https://github-readme-stats.vercel.app/api/pin/?username=jonathanpperry&repo=book-management-macapp&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
               alt="jonnyramen"
               loading="lazy"
             />
