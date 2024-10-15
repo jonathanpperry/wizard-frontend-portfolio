@@ -27,10 +27,10 @@ export const projectsData = [
   },
   {
     id: 2,
-    name: "Next Task Manager",
-    description: "Task manager app built on Next.js, clerk auth, and hosted on Vercel",
+    name: "Notion AI Clone",
+    description: "Notion clone built using Next.js, Blocknote, and cloudflare workers, integrating with the OpenAI translate, summary, and chat completion apis",
     date: "2022-06-20",
-    demoLink: "https://next-task-manager-omega.vercel.app",
+    demoLink: "https://notion-clone-yt-jonathanpperry-jonathanpperrys-projects.vercel.app/",
   },
   {
     id: 3,
@@ -58,7 +58,7 @@ export const projectsData = [
     name: "IonicPokedex",
     description: "Pokedex app built using ionic",
     date: "2022-10-01",
-    demoLink: "https://ionic-angular-pokedex.netlify.app/home",
+    demoLink: "https://ionic-angular-pokedex.netlify.app/",
   },
   {
     id: 7,
@@ -76,10 +76,10 @@ export const projectsData = [
   },
   {
     id: 9,
-    name: "FitTrack",
-    description: "Fitness and workout tracker",
-    date: "2022-03-22",
-    demoLink: "https://fittrack.example.com",
+    name: "Next Task Manager",
+    description: "Task manager app built on Next.js, clerk auth, and hosted on Vercel",
+    date: "2023-06-20",
+    demoLink: "https://next-task-manager-omega.vercel.app",
   },
   {
     id: 10,
