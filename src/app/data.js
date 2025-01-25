@@ -115,7 +115,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/resume.pdf",
+    link: "/Jonathan_Perry_Resume.docx",
     icon: "resume",
     newTab: true,
   },
