@@ -37,7 +37,7 @@ export default function Form() {
         process.env.NEXT_PUBLIC_TEMPLATE_ID,
         params,
         {
-          publicKey: process.env.NEXT_PUBLIC_PUBLIC_KEY,
+          publicKey: process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY,
           limitRate: {
             // Cannot send more than 1 email/5 sec
             throttle: 5000,
